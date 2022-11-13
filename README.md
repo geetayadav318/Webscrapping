@@ -18,4 +18,4 @@ This project includes installation of library BeautifulSoup.
 
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/88835555/201540131-1e423bb0-5d38-470d-8a4c-d8b80ab54c0f.png">
 We need to source of data before getting it.
-In the case of the IMDb movie website, the structure of the data of the 1st movie is similar to the structure of those remaining 99 movies. We can take advantage of that later.
+In the case of the IMDb movie website, the structure of the data of the 1st movie is similar to the structure of those remaining 249 movies. We can take advantage of that later. 
